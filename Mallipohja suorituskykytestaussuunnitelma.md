@@ -191,11 +191,12 @@ Testeissä käytettävät kuormat löytyvät sivulta/dokumentista Mallipohja tes
 
 ### Testitapaukset
 
-(Kuvaa päätasolla testiin otettavat testitapaukset. Pyri valitsemaan riittävän yksinkertaiset, järjestelmän todellista käyttöä edustavat testitapaukset (esim. yleisimmät testitapaukset, riittävällä testidatalla varioituna). Testauksen tavoite määrittelee valittavat testitapaukset.)
+(Kuvaa päätasolla testiin valittavat testitapaukset. Pyri valitsemaan riittävän yksinkertaiset, järjestelmän todellista käyttöä edustavat testitapaukset (esim. yleisimmät testitapaukset, riittävällä testidatalla varioituna). Testauksen tavoite määrittelee valittavat testitapaukset.)
 
 Testitapaukset löytyvät sivulta/dokumentista Mallipohja testiskenaariot ja testitapaukset.
 
 
 ### Testidata
 
-(Kuvaa päätasolla tarvittavat testidata. Esim. millaista testidataa tarvitaan ja kuinka paljon: käyttäjätunnukset, haettava / syötettävä data.)
+
+(Kuvaa päätasolla tarvittava testidata. Esim. millaista testidataa tarvitaan ja kuinka paljon: käyttäjätunnukset, haettava / syötettävä data.)
